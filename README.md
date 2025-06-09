@@ -1,23 +1,46 @@
-<h1 align="center">Hi 👋, I'm Vasil Tarashev</h1>
-<h3 align="center">"Aspiring Python Enthusiast on a Journey of Continuous Learning 🐍"</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+# 👋 Здравей, аз съм Васил Тарашев
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waskoooo&label=Profile%20views&color=0e75b6&style=flat" alt="waskoooo" /> </p>
+🎯 Фрийланс уеб разработчик с фокус върху създаване на функционални и модерни уебсайтове.  
+💼 Имам опит както с клиенти в подкрепа и CRM, така и с пълна разработка на бизнес сайтове, галерии и системи за резервации.  
+🌍 Базиран в Пловдив, България | Работя и дистанционно  
 
-- 🌱 I’m currently learning **Programming with Python**
+---
 
-- 📫 How to reach me **vasiltarashev@gmail.com**
+## 🛠 Технологии и умения
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https:///www.linkedin.com/in/vasil-tarashev-3047ba142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vasil-tarashev-3047ba142" height="30" width="40" /></a>
-</p>
+**Фронтенд:**  
+HTML5, CSS3 (Flexbox, Grid), JavaScript, Bootstrap, jQuery, Responsive Design, React (в процес)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Бекенд:**  
+PHP, Node.js (в процес), SQL, PostgreSQL, REST API  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waskoooo&show_icons=true&locale=en&layout=compact" alt="waskoooo" /></p>
+**Инструменти и интеграции:**  
+Git, GitHub, FTP, cPanel, CRM системи, Google Maps, контактни форми, Viber/WhatsApp, PayPal, Stripe  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waskoooo&show_icons=true&locale=en" alt="waskoooo" /></p>
+**UX/UI & SEO:**  
+Мобилна оптимизация, базов брандинг, анимации, UI компоненти, основи на SEO  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waskoooo&" alt="waskoooo" /></p>
+---
+
+## 🎓 Образование и курсове
+
+- 🎓 СофтУни – Софтуерен инженер с Python (2022 – 2024)  
+- 🎓 УНСС – Счетоводство и контрол (2014 – 2016)  
+- 💻 Web Development Bootcamp – Angela Yu, Udemy (в процес)  
+- 💻 HTML/CSS – Jonas Schmedtmann, Udemy  
+- 💻 WordPress Development – Elementor, WooCommerce, Udemy (01.2025 – 03.2025)
+
+---
+
+## 🔧 Проекти
+
+- [🌐 dmigranulate.com](https://www.dmigranulate.com/) – бизнес сайт с анимации  
+- [💈 barbershopworld2.com](https://barbershopworld2.com/) – галерия, система за резервации и админ панел  
+- [🧪 vastwebdesign.com](https://vastwebdesign.com/) – моето портфолио (в процес на разработка)  
+
+---
+
+## 📫 Свържи се с мен
+
+- ✉️ vasiltarashev@gmail.com  
+- 🌐 [vastwebdesign.com](https://vastwebdesign.com/)   
